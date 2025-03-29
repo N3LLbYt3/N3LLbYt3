@@ -5,4 +5,4 @@ bardiaghassemi/bardiaghassemi is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi I'm 𝓝𝓾𝓵𝓵𝓑𝔂𝓽𝓮, I'm A Python Programmer And I Learning Hacking 😁😁😎😎
+Hi I'm 𝓝𝓾𝓵𝓵𝓑𝔂𝓽𝓮, I'm A Python Programmer And I Learning Pentesting 😁😁😎😎
